@@ -1,0 +1,6 @@
+Steven Sleder
+CprE 560X
+Spring 2019
+
+To Run (make sure the dataset is in the right directory):
+  python3 MugShot.py
