@@ -1,0 +1,6 @@
+matplotlib
+numpy
+IPython.display
+keras-gpu
+PIL
+tqdm
